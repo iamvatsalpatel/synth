@@ -4,6 +4,10 @@ _NOTE: This project is part of CS-554 coursework at Stevens for Spring 2023_
 
 Synth is a web application that allows you to stream audio and find new tracks. Synth allows you to make playlists and look for songs, artists, albums, or playlists. You can also explore artist and album pages, as well as listen to top tracks by an artist. The music player allows you to manage core functions like play/pause, continue, and volume control, as well as view song information like artist, album, and song length. You can update your profile picture, login, and password as well as manage your profile details.
 
+## Youtube Video
+
+Here is a video that showcases the project: [https://www.youtube.com/watch?v=udasV2KxajM](https://www.youtube.com/watch?v=udasV2KxajM)
+
 ## Github Repo
 
 [https://github.com/namz11/synth](https://github.com/namz11/synth)
